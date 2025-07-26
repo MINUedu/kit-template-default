@@ -1,0 +1,48 @@
+
+[
+  {
+    "id": "ETC3021",
+    "name": "교육방법 및 교육공학",
+    "professor": "유영만",
+    "day": "월",
+    "start_time": "09:00",
+    "end_time": "12:00",
+    "credits": 3
+  },
+  {
+    "id": "ETC3022",
+    "name": "교육심리",
+    "professor": "이현주",
+    "day": "화",
+    "start_time": "10:00",
+    "end_time": "13:00",
+    "credits": 3
+  },
+  {
+    "id": "ETC3023",
+    "name": "교육사회",
+    "professor": "김민",
+    "day": "수",
+    "start_time": "14:00",
+    "end_time": "17:00",
+    "credits": 3
+  },
+  {
+    "id": "ETC4021",
+    "name": "교육실습",
+    "professor": "이현주",
+    "day": "목",
+    "start_time": "13:00",
+    "end_time": "16:00",
+    "credits": 2
+  },
+  {
+    "id": "ETC4022",
+    "name": "교육봉사활동",
+    "professor": "유영만",
+    "day": "금",
+    "start_time": "10:00",
+    "end_time": "12:00",
+    "credits": 1
+  }
+]
